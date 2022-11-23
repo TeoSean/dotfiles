@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/sawntoe/rename_wlan.sh
+X-GNOME-Autostart-enabled=false
+NoDisplay=false
+Hidden=false
+Name[en_SG]=rename_wlan
+Comment[en_SG]=No description
+X-GNOME-Autostart-Delay=0

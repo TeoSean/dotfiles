@@ -1,0 +1,23 @@
+{
+    "shell": "zsh",
+    "shellArgs": "",
+    "cwd": "/home/sawntoe/",
+    "keyboard": "en-US",
+    "theme": "pinknord",
+    "termFontSize": 15,
+    "audio": true,
+    "audioVolume": 1,
+    "disableFeedbackAudio": false,
+    "clockHours": 24,
+    "pingAddr": "1.1.1.1",
+    "port": 3000,
+    "nointro": false,
+    "nocursor": true,
+    "forceFullscreen": true,
+    "allowWindowed": true,
+    "excludeThreadsFromToplist": true,
+    "hideDotfiles": true,
+    "fsListView": false,
+    "experimentalGlobeFeatures": true,
+    "experimentalFeatures": true
+}
